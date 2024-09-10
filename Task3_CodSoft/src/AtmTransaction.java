@@ -50,7 +50,7 @@ public class AtmTransaction {
                     break;
             }
 
-            System.out.println() // Add a line break for better formatting
+            System.out.println(); // Add a line break for better formatting
         }
     }
 }
